@@ -1,5 +1,5 @@
 import React from 'react';
-import './NumberDisplay.css';
+import './NumberDisplay.scss';
 
 interface NumberDisplayProps {
   value: number;
