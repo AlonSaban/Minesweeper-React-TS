@@ -18,9 +18,3 @@ export enum CellState {
 }
 
 export type Cell = { value: CellValue; state: CellState };
-
-export const faceStatus = {
-  natural: "😃",
-  win: "😎",
-  lose: "😵",
-}

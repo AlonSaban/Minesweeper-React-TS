@@ -2,7 +2,7 @@ import { useState } from 'react';
 import './App.scss'
 import NumberDisplay from '../NumberDisplay'
 import { generateCells } from '../../utils';
-import { faceStatus } from '../../types/index';
+import { faceStatus } from '../../constans/index';
 
 const App: React.FC = () => {
 
